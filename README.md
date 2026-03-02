@@ -1,4 +1,4 @@
-##Amy Gomez
+# Amy Gomez
 
 
 # 💫 About Me:
