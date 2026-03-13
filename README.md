@@ -15,12 +15,14 @@ I  am currently a Computer Science Major with a concentration in AI/ML with a mi
 ![](https://github-readme-stats.vercel.app/api?username=amy020&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=amy020&theme=rose&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amy020&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amy020&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
----
+
+
 [![](https://visitcount.itsvg.in/api?id=amy020&icon=10&color=5)](https://visitcount.itsvg.in)
 
 <!--
