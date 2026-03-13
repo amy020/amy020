@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I  am currently a Computer Science Major with a concentration in AI/ML with a minor in Spanish.<br>I have always been a curious child since I could remeber because of this I turned that curiosity into hands-on<br>experience through projects like PitStop, where I built a cloud-based backend to support live, real-time data. I’ve<br>also led teams on large engineering projects, where clear communication and system integration were critical to<br>delivering a working solution.<br>Currently I am working on another app called QUICKSIT, soon to come out to the open!!!
+I  am currently a Computer Science Major with a concentration in AI/ML with a minor in Spanish.<br>I have always been a curious child since I could remeber and because of this I turned that curiosity into hands-on<br>experience through projects like PitStop, where I was able to built a cloud-based backend to support live, real-time data. I’ve<br>also led teams on large engineering projects, where clear communication and system integration were critical to<br>delivering a working solution.<br>Currently I am working on another app called QUICKSIT, soon to come out to the open!!! On my free time I likw to doodle (more idea come out thay way!) or go over programming languages that I have no used in a while! 
 
 
 ## 🌐 Socials:
@@ -13,6 +13,7 @@ I  am currently a Computer Science Major with a concentration in AI/ML with a mi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amy020&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=amy020&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amy020&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -41,7 +42,4 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amy020&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
 
