@@ -4,11 +4,11 @@ Computer Science student focused on full-stack development and building real-wor
 
 ## 🚀 Projects
 - PitStop – Real-time parking app (Flutter, Firebase)
-- [Add 1 more strong project]
+- QuickSit -Real-time study spot app (Flutter Firebase)
 
 ## 🛠 Tech
 Python • Java • C++ • JavaScript • Firebase • Flutter
 
 ## 📫 Contact
 Email: amys.gomez777@gmail.com
-LinkedIn: [link]
+LinkedIn: [https://www.linkedin.com/in/amy-gomez-cs/]
