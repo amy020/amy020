@@ -5,6 +5,7 @@ Computer Science student focused on full-stack development and building real-wor
 ## Projects
 - PitStop – Real-time parking app (Flutter, Firebase)
 - QuickSit -Real-time study spot app (Flutter Firebase)
+- Phishing Simulation -(Java, HTML5, CSS)
 
 ##  Tech
 Python • Java • C++ • JavaScript • Firebase • Flutter
