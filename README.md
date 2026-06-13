@@ -1,5 +1,7 @@
 # About Me:
- Amy Gomez<br><br>Computer Science student focused on full-stack development and building real-world applications.<br><br>## Projects<br>- PitStop – Real-time parking app (Flutter, Firebase)<br>- QuickSit -Real-time study spot app (Flutter Firebase)<br>- Phishing Simulation - (Java, HTML5, CSS)
+ Amy Gomez<br><br>Computer Science student focused on full-stack development and building real-world applications.<br><br>
+ 
+ ## Projects<br>- PitStop – Real-time parking app (Flutter, Firebase)<br>- QuickSit -Real-time study spot app (Flutter Firebase)<br>- Phishing Simulation - (Java, HTML5, CSS)
 
 
 ## Socials:
